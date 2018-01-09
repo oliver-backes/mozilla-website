@@ -1,11 +1,19 @@
 p {
-	color: red;
+	color: #e05038;
 }
 
 ul {
-	color: blue;
+	color: #f2cbbc;
 }
 
 a {
-	color: green;
+	color: #e6af4b;
+}
+
+.quote {
+	color: #334431;
+}
+
+#mainquote {
+	border: 1px solid black;
 }
